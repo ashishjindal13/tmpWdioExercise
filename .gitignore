@@ -1,0 +1,10 @@
+node_modules
+.nyc_output
+.coverage
+.vscode
+.idea
+npm-debug.log
+yarn-error.log
+tests/reports/output/*
+reports/output/*
+tmp
