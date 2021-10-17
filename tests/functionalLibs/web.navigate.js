@@ -11,7 +11,7 @@ module.exports={
     },
     close:() => {
         try{
-            browser.quit();        }
+            browser.closeWindow();        }
         catch (error){
             console.error(error)
         }
